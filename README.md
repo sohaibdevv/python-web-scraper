@@ -1,2 +1,3 @@
-# python-web-scraper
-A Python-based web scraper built with BeautifulSoup and Pandas. Features error handling, data cleaning, and CSV export.
+# Python Web Scraper
+
+A robust data acquisition tool built in Google Colab to extract and process web data efficiently.
